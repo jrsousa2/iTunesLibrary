@@ -16,3 +16,4 @@ The user can do a test first with a single file (or a couple of files) for safet
 
 Executable file is available in the link https://github.com/jrsousa2/iTunesLibrary/releases/download/v1.0.0/iTunesLibraryMigration.exe
 
+![iTunesMigrationApp2](https://github.com/jrsousa2/iTunesLibrary/assets/94881602/c86f2be1-2bcf-4edb-bee4-40179b9df245)
