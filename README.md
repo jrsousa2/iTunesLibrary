@@ -15,3 +15,5 @@ It only changes the drive, the relative paths need to remain exactly the same (e
 You can do a test on a small number of files first, to verify that all is working. The track whose location was updated is added to a new playlist in iTunes.
 
 The program uses the iTunes library XML file to locate the original path for each track and update it to point to the new drive, thus fixing the missing paths after the files are moved.
+
+Executable file is available in the link https://github.com/jrsousa2/iTunesLibrary/releases/download/v1.0.0/iTunesLibraryMigration.exe
