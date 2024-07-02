@@ -1,5 +1,5 @@
 # iTunes Library Migration Tool
-Migrate your iTunes library with a free applet built in Python.
+Migrate your iTunes library with a free application built in Python.
 
 Check video tutorial on YouTube to learn how to use it (not available yet).
 
