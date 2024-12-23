@@ -14,6 +14,4 @@ The program uses the iTunes library XML file to locate the original path for eac
 
 The user can do a test first with a single file (or a couple of files) for safety. For example, move file "D:\MP3\Abba - SOS.mp3" to "E:\MP3\Abba - SOS.mp3" and launch the program to see how it works. Updated files are added to a new playlist.
 
-Executable file is available in the link https://github.com/jrsousa2/iTunesLibrary/releases/download/v1.0.0/iTunesLibraryMigration.exe
-
-![iTunesMigrationApp2](https://github.com/jrsousa2/iTunesLibrary/assets/94881602/c86f2be1-2bcf-4edb-bee4-40179b9df245)
+Executable file is available in the link https://jrsousa2.gumroad.com/l/itunes
