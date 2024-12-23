@@ -1,5 +1,5 @@
 # iTunes Library Migration Tool
-Migrate your iTunes library with a free application built in Python.
+Migrate your iTunes library with a cool application built in Python.
 
 Check video tutorial on YouTube to learn how to use it (not available yet).
 
@@ -10,7 +10,7 @@ Reason to do it that way is that it's faster and more convenient than doing it w
 
 Launch the application and enter the old and the new drive. The program will fix the location of all the files in the iTunes library to point to the new drive.
 
-The program uses the iTunes library XML file to locate the original path for each track and update it to point to the new drive, thus fixing the missing/broken paths after the files are manually moved. A simple GUI was created with the TkInter module.
+The program uses the iTunes library XML file to locate the original path for each track and update it to point to the new drive, thus fixing the missing/broken paths after the files are manually moved. The XML makes reading the metadata much faster. A simple GUI was created with the TkInter module.
 
 The user can do a test first with a single file (or a couple of files) for safety. For example, move file "D:\MP3\Abba - SOS.mp3" to "E:\MP3\Abba - SOS.mp3" and launch the program to see how it works. Updated files are added to a new playlist.
 
