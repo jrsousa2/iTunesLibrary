@@ -14,4 +14,6 @@ The program uses the iTunes library XML file to locate the original path for eac
 
 The user can do a test first with a single file (or a couple of files) for safety. For example, move file "D:\MP3\Abba - SOS.mp3" to "E:\MP3\Abba - SOS.mp3" and launch the program to see how it works. Updated files are added to a new playlist.
 
+![snapshot](https://public-files.gumroad.com/6qyalyijgx7ywtyaovaw67ag61ho)
+
 Executable file is available in the link https://jrsousa2.gumroad.com/l/itunes
